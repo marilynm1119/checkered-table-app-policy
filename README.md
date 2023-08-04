@@ -8,7 +8,8 @@ There are no technical information collected about your device or the OS
 
 ## Functional Features 
 We support recipe import from ANY website, picture or copy and pasted text.  Cook with Chef Friends, checkout Trending Recipes, add Shared Recipes and more!
-
+> To delete your account, please reach out to me at the linked in url below.
+> 
 ## Copyright Holder's Place of Registration
 Kapolei, HI.  Icons and illustrations provided by https://icons8.com.  
 
@@ -22,4 +23,4 @@ When you register, you will need to verify the email address provided.  Your dat
 Version 1.0 of the app is a free version with limited ads on certain pages. 
 
 ## Contact Info
-For any questions or feedback please message us at https://www.linkedin.com/in/marilyn-marquez/
+For any questions or feedback please message me at https://www.linkedin.com/in/marilyn-marquez/
