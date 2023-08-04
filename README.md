@@ -9,7 +9,7 @@ There are no technical information collected about your device or the OS
 ## Functional Features 
 We support recipe import from ANY website, picture or copy and pasted text.  Cook with Chef Friends, checkout Trending Recipes, add Shared Recipes and more!
 > To delete your account, please reach out to me at the linked in url below.
-> 
+
 ## Copyright Holder's Place of Registration
 Kapolei, HI.  Icons and illustrations provided by https://icons8.com.  
 
