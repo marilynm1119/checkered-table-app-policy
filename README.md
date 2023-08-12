@@ -8,7 +8,7 @@ There are no technical information collected about your device or the OS
 
 ## Functional Features 
 We support recipe import from ANY website, picture or copy and pasted text.  Cook with Chef Friends, checkout Trending Recipes, add Shared Recipes and more!
-> To delete your account, please reach out to me at the linked in url below.
+> To delete your account, go to your Settings tab and click Delete Account.  This function will permanently delete your account and recipes.  
 
 ## Copyright Holder's Place of Registration
 Kapolei, HI.  Icons and illustrations provided by https://icons8.com.  
@@ -23,4 +23,4 @@ When you register, you will need to verify the email address provided.  Your dat
 Version 1.0 of the app is a free version with limited ads on certain pages. 
 
 ## Contact Info
-For any questions or feedback please message me at https://www.linkedin.com/in/marilyn-marquez/
+For any questions or feedback please email us at checkeredtablecloth.hi@gmail.com
